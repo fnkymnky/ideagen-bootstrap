@@ -1,1 +1,1 @@
-The Ideagen flavour of Twitter Bootstrap v3.3.5
+The Ideagen flavour of Twitter Bootstrap v3.3.5.
